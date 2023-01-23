@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yuta-2001/ts-training/issues"
   },
-  "homepage": "https://github.com/yuta-2001/ts-training#readme"
+  "homepage": "https://github.com/yuta-2001/ts-training#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
